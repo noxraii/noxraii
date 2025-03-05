@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **my Bachelors in Computer Information Systems/Cybersecurity!**
 
-- 🌱 I’m currently learning **Java,COBOL,and**
+- 🌱 I’m currently learning **Java, COBOL, and more Packet Tracer skills!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/noxraii](https://github.com/noxraii)
 
 - 📫 How to reach me **augiem04@gmail.com**
 
-- 📄 Know about my experiences [resume coming soon...](resume coming soon...)
+- 📄 Know about my experiences (resume coming soon...)
 
 - ⚡ Fun fact **I prefer winter over summer!❄️**
 
